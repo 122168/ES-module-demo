@@ -1,2 +1,2 @@
-import { add } from './hello.js';
+import { add } from './main.js';
 add(3,4);
