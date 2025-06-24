@@ -1,2 +1,2 @@
 import { add } from './math.js';
-add(3,4);
+console.log(add(2, 3));
