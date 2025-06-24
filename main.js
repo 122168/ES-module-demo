@@ -1,2 +1,2 @@
-import { add } from './main.js';
+import { add } from './math.js';
 add(3,4);
