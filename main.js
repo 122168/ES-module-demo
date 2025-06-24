@@ -1,2 +1,2 @@
-import { sayHello } from './hello.js';
-sayHello();
+import { add } from './hello.js';
+add(3,4);
